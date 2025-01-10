@@ -1,0 +1,8 @@
+prefix=/home/carto317/rzx/example/install
+
+Name: astar_path_planner
+Description: Description of astar_path_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lastar_path_planner
+Requires: roscpp nav_msgs visualization_msgs geometry_msgs

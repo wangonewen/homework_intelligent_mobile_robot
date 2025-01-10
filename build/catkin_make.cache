@@ -1,0 +1,2 @@
+astar_path_planner
+-DCATKIN_DEVEL_PREFIX=/home/carto317/rzx/example/devel -DCMAKE_INSTALL_PREFIX=/home/carto317/rzx/example/install -G Unix Makefiles
